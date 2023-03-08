@@ -1,0 +1,50 @@
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+    height: auto;
+}
+
+body {
+    background-image: url("../images/Kitchen.jpg");
+}
+
+p {
+    text-align: center;
+    font-size: larger;
+    font-weight: 200;
+    border: 2px solid powderblue;
+    width: 200px;
+    border-radius: 25px;
+    background-color: rgba(0, 255, 255, 0.6);
+    margin: auto;
+}
+
+h1 {
+    font-family: serif, sans-serif;
+    font-size: 300%;
+    text-align: center;
+}
+
+ul {
+    border: 2px solid powderblue;
+    width: 500px;
+    border-radius: 25px;
+    background-color: rgba(0, 255, 255, 0.6);
+    margin: auto;
+}
+
+ol {
+    border: 2px solid powderblue;
+    width: 800px;
+    border-radius: 25px;
+    background-color: rgba(0, 255, 255, 0.6);
+    margin: auto;
+}
+
+h3 {
+    font-family: serif, sans-serif;
+    font-size: 200%;
+    text-align: center;
+}
